@@ -1,2 +1,2 @@
-# permier_dbt
-Man premier projet avec DuckDbt
+# premier_dbt
+Mon premier projet avec DuckDbt
